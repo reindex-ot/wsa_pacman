@@ -16,7 +16,7 @@
 
 
     "status_unsupported": "WSA がインストールされていません",
-    "status_unsupported_desc": "{windowsVersion} が検出され、WSA が見つかりません。このアプリケーションは WSA に依存しており、ウィンドウズ 11 でのみ正式にサポートされています",
+    "status_unsupported_desc": "{windowsVersion} が検出され、WSA が見つかりません。このアプリケーションは WSA に依存しており、Windows 11 でのみ正式にサポートされています。",
     "status_missing": "WSA がインストールされていません",
     "status_missing_desc": "WSA が見つかりません。このアプリケーションはWSAに依存、Microsoft StoreからAndroid™️ 用 Windows サブシステムをインストールしてください",
     "status_unknown": "接続中",
@@ -26,11 +26,11 @@
     "status_arrested": "停止",
     "status_arrested_desc": "WSA がオフになっています",
     "status_offline": "オフライン",
-    "status_offline_desc": "WSA との接続を確立できませんでした：開発者モードと USB デバッグが無効になっているか、間違ったポートが指定されています",
+    "status_offline_desc": "WSA の接続を確立できませんでした：開発者モードと USB デバッグが無効になっているか、間違ったポートが指定されています。",
     "status_disconnected": "切断",
-    "status_disconnected_desc": "WSA 接続を不明な理由で確立できませんでした",
+    "status_disconnected_desc": "WSA の接続が不明な理由により確立できませんでした。",
     "status_connected": "接続",
-    "status_connected_desc": "WSA への接続に成功し、準備完了です",
+    "status_connected_desc": "WSA の接続に成功しました、システムが実行できます。",
 
 
     "screen_wsa": "WSA パッケージ マネージャ",
@@ -51,8 +51,8 @@
 
 
     "theme_mode": "テーマモード",
-    "theme_mode_dark": "暗い",
-    "theme_mode_light": "明るい",
+    "theme_mode_dark": "ダーク",
+    "theme_mode_light": "ライト",
     "theme_mica": "ウィンドウの透明度",
     "theme_mica_full": "全体",
     "theme_mica_partial": "一部",
@@ -62,7 +62,7 @@
     "theme_icon_adaptive_rounded_square": "丸み正方形",
 
 
-    "installer_message": "このアプリケーションをインストールしますか？",
+    "installer_message": "このアプリケーションをインストールしますか?",
     "installer_info_version": "バージョン： {appVersion}",
     "installer_info_version_change": "バージョン： {appVersionOld} ⇒ {appVersionNew}",
     "installer_info_package": "パッケージ： {appPackage}",
@@ -76,7 +76,7 @@
     "installer_btn_install": "インストール",
     "installer_btn_reinstall": "再インストール",
     "installer_btn_update": "更新",
-    "installer_btn_downgrade": "ダウングレード（安全でない）",
+    "installer_btn_downgrade": "ダウングレード(安全ではありません)",
     "installer_btn_dismiss": "閉じる",
     "installer_btn_open": "アプリを開く",
     "installer_btn_checkbox_shortcut": "デスクトップショートカットを作成",
